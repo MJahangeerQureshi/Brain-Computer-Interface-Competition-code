@@ -6,4 +6,4 @@ The code has three stages
 -> After this a Deep Neural Network is applied and its accuracies are judged as well.
 -> The features from the last layer of the network are used to train several ML algorithms
 
-The model with the highest accuracy is chosen an further optimized (But that isnt included)
+The model with the highest accuracy is chosen and further optimized (But that isnt included)
