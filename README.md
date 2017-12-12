@@ -1,6 +1,6 @@
 # Brain-Computer-Interface-Competition-code
 This code was used for the 2017 Air Tech Brain Computer Interface Competition in Air University.
-The code has 4 stages
+The code has 4 stages.
 
 -> We load the data and apply a median filter to smoothen the data.
 
@@ -8,6 +8,6 @@ The code has 4 stages
 
 -> After this a Deep Neural Network is applied and its accuracies are judged as well.
 
--> The features from the last layer of the network are used to train several ML algorithms
+-> The features from the last layer of the network are used to train several ML algorithms.
 
 The model with the highest accuracy is chosen and further optimized (But that isnt included).
